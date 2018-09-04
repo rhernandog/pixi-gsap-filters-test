@@ -27,7 +27,7 @@ Which shows the filters. Setting `forceCanvas: true`, sets the app to use the ca
 
 Also the `index.html` file has the following:
 
-````html
+```html
 <script src="sample.js"></script>
 <!-- <script src="shader.js"></script> -->
 <!-- <script src="canvas_tinter.js"></script> -->
