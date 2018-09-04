@@ -1,0 +1,20 @@
+{
+  "name": "pixi-filters-test",
+  "version": "1.0.0",
+  "author": {
+    "name": "Rodrigo Hernando",
+    "email": "rhernandog@gmail.com",
+    "url": "https://github.com/rhernandog/"
+  },
+  "scripts": {
+    "start": "node bsync.js"
+  },
+  "description": "Sample of the usage of PIXI filters through the GSAP PIXI plugin in a PIXI canvas renderer, for the Streammm application",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rhernandog/pixi-gsap-filters-test.git"
+  },
+  "dependencies": {
+    "browser-sync": "^2.24.7"
+  }
+}
