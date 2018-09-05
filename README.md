@@ -31,6 +31,10 @@ Also the `index.html` file has the following:
 <script src="sample.js"></script>
 <!-- <script src="shader.js"></script> -->
 <!-- <script src="canvas_tinter.js"></script> -->
+<!-- <script src="sprite-tint.js"></script> -->
 ```
 
 By commenting out you can test other files as well.
+
+## Sprite Tint Test
+This is the only feature that works on top of canvas directly from PIXI. Comment out the last js file `sprite-tint.js` and press the buttons to test. The buttons don't work with any other file.
